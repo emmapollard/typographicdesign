@@ -1,13 +1,13 @@
 title: emma pollard
 description: typography
 footer_text: "Copyright 2021 Emma Pollard "
-header_feature_image: ../uploads/placeholder3.jpg
-header_text: "no "
+header_feature_image: ../uploads/img_4809-1-.jpg
+header_text: ""
 header_text_color: "#d3ff00"
 bannerheight: 20vmax
 navbarheight: 55px
-logo: ../uploads/logo.jpg
-favicon: /uploads/favicon.ico
+logo: ../uploads/weblogo.png
+favicon: ../uploads/weblogo.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
