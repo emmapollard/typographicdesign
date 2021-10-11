@@ -13,8 +13,10 @@ show: true
 ---
 **Emma Pollard**, born on Guy Fawkes night 2002, was raised in the 'lovely' country of the United States of America. She was born in Connecticut which is very affluent and boring, but moved in 2014 to the divided state of North Carolina. However, her father is from Bristol and now she has ended up in his home country studying Media, Publishing and Journalism at Oxford Brookes University. 
 
-In her free time, she spends all her time and money playing *Genshin Impact*, as she has a slight gambling addiction. When not doing this, she's either crying reading the *Blue Period* manga or watching the fever dream which is the *Ensemble Stars* anime. 
+In her free time, she spends all her time and money playing *Genshin Impact*, as she has a slight gambling addiction (Kazuha/Fischl main BTW). When not doing this, she's either crying reading the *Blue Period* manga, watching the fever dream that is the *Ensemble Stars* anime, or procrastinating on starting *Tokyo Revengers*. 
 
 In the future, she hopes to either go into manga publishing or video game marketing for international companies (which means somehow becoming fluent in both Chinese and Japanese) and making a good living for herself. She doesn't know where she will settle down yet, but she hopes it will be in a nice penthouse apartment with 5 cats. 
 
 The featured image is Emma's beautiful and prized collection of romance manga, even though she claims to hate the *shoujo* genre of anime/manga - she actually is just lying to herself. 
+
+Her current favourite mangas / manga recommendations include: *Chainsaw Man* by Tatsuki Fujimoto, *Blue Peirod* by Tsubasa Yamaguchi, *Sasaki and Miyano* by Sho Harusono, *Love Me Love Me Not* by Io Sakisaka, *Dr Stone* by Riichiro Inagaki/Boichi, *Life Lessons with Uramichi-Oniisan* by Gaku Kuze, *Toilet-Bound Hanako-Kun* by Aidalro, and *Enaile & Dewiela* by Kamome Shirahama.
