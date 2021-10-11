@@ -6,13 +6,15 @@ image: ../uploads/img_6381.jpg
 title_color: "#ffffff"
 comments: false
 ---
-   The typography used on manga covers and/or spines is some of the most creative and (usually) the most pleasant designs among a good deal of published media in today’s bookstores. They stand out with their eye-catching colours, interesting fonts, and consistency between volumes of the same manga.
+   **The typography** used on manga covers and/or spines is some of the most creative and (usually) the most pleasant designs among a good deal of published media in today’s bookstores. They stand out with their eye-catching colours, interesting fonts, and consistency between volumes of the same manga.
 
    In the United States, United Kingdom, and any other majority English-speaking country, manga spines line the shelves of popular bookstores such as Barnes & Nobles or Waterstones, with their eye-catching spines standing out to interested guests. Viz Media, Yen Press, and Kodansha Comics are all major USA-based publications that bring these manga from Japan and to the English-speaking world and into the hands of readers.   
 
   The three major publishing companies each run a multitude of different series, translating every single one of them from the native Japanese language to English. Because of this, obviously, the design on the covers and spines are going to have to be redesigned to cater for a Western audience. 
 
-   Take one of the most popular series these days, Chainsaw Man by Tatsuki Fujimoto. In the Japan version, the font of the series title on the cover and spine are completely different in comparison to the English copies printed by Viz Media.
+   Take one of the most popular series these days, *Chainsaw Man* by Tatsuki Fujimoto. In the Japan version, the font of the series title on the cover and spine are completely different in comparison to the English copies printed by Viz Media.
+
+![My beautiful children <3](../uploads/img_6381.jpg)
 
    On the cover, the Japanese title is in a big, bold, yellow font that catches the eye and almost feels like it’s yelling at you, which is a great indicator of what the actual story is kinda about. In comparison, the English copy looks a little more downplayed, but still very eye-catching. The novelty of the title being placed into a chainsaw is something I absolutely LOVE, and I can really appreciate how the Viz Media typographers were able to do that. 
 
@@ -22,7 +24,7 @@ comments: false
 
 ![English spines are from my own collection, and Japanese spines are from Reddit user syubbi on r/MangaCollectors](../uploads/english.jpg "English spines are from my own collection, and Japanese spines are from Reddit user syubbi on r/MangaCollectors")
 
-   Chainsaw Man has not only been printed in Japanese, however. It is also available in French, Italian, Spanish, Polish and German (as well as many other languages within the EU), with slight changes between each of them on the covers. However, the spines on all of them are completely different. 
+  * Chainsaw Man* has not only been printed in Japanese, however. It is also available in French, Italian, Spanish, Polish and German (as well as many other languages within the EU), with slight changes between each of them on the covers. However, the spines on all of them are completely different. 
 
    The biggest difference on the cover of the European printed copies in comparison to the English copies is the title, which is printed very similarly to the Japanese print versions but in English. The words are in the same bold and yellow letters that span the entire cover and stand out against the orange background. 
 
