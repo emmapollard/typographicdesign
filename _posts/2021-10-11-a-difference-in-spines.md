@@ -16,11 +16,11 @@ Take one of the most popular series these days, Chainsaw Man by Tatsuki Fujimoto
 
 On the cover, the Japanese title is in a big, bold, yellow font that catches the eye and almost feels like it’s yelling at you, which is a great indicator of what the actual story is kinda about. In comparison, the English copy looks a little more downplayed, but still very eye-catching. The novelty of the title being placed into a chainsaw is something I absolutely LOVE, and I can really appreciate how the Viz Media typographers were able to do that. 
 
-![](../uploads/0001-2.jpg "Cover Pictures are product images from amazon.co.uk")
+![Cover Pictures are product images from amazon.co.uk](../uploads/0001-2.jpg "Cover Pictures are product images from amazon.co.uk")
 
 The spines on the two are quite different as well, as the Japan copy’s font looks very distressed or worn off, whereas the English copy’s looks more traditional with a little bit of eclecticness through the varying contrast. The English versions also have little snippets of characters’ faces, which I really enjoy but the Japanese versions do not have. 
 
-![](../uploads/0001.jpg "English spines are from my own collection, and Japanese spines are from Reddit user syubbi on r/MangaCollectors")
+![English spines are from my own collection, and Japanese spines are from Reddit user syubbi on r/MangaCollectors](../uploads/0001.jpg "English spines are from my own collection, and Japanese spines are from Reddit user syubbi on r/MangaCollectors")
 
 Chainsaw Man has not only been printed in Japanese, however. It is also available in French, Italian, Spanish, Polish and German (as well as many other languages within the EU), with slight changes between each of them on the covers. However, the spines on all of them are completely different. 
 
@@ -32,7 +32,7 @@ I just think this spine (pictured right below) looks so cool. The full black wit
 
 ### 1. Germany
 
-![](../uploads/2dnr2pxi1nu51.webp "Image from Reddit user Luke911666 on r/MangaCollectors")
+![Image from Reddit user Luke911666 on r/MangaCollectors](../uploads/2dnr2pxi1nu51.webp "Image from Reddit user Luke911666 on r/MangaCollectors")
 
 ### 2. Polish
 
@@ -40,4 +40,4 @@ The spines of the Polish versions IS SO COOL! I love how the title looks like it
 
 \*The main character of *Chainsaw Man* who is featured on the cover
 
-![](../uploads/ilk1f3az8im71.webp "Image from Reddit user ka3one on r/ChainsawMan")
+![Image from Reddit user ka3one on r/ChainsawMan](../uploads/ilk1f3az8im71.webp "Image from Reddit user ka3one on r/ChainsawMan")
