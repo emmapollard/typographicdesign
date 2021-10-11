@@ -2,11 +2,11 @@
 layout: post
 title: A Difference in Spines
 date: 2021-10-11T13:27:33.399Z
-image: ../uploads/img_6378-1-.jpg
+image: ../uploads/img_6381.jpg
 title_color: "#ffffff"
 comments: false
 ---
-\    The typography used on manga covers and/or spines is some of the most creative and (usually) the most pleasant designs among a good deal of published media in today’s bookstores. They stand out with their eye-catching colours, interesting fonts, and consistency between volumes of the same manga.
+   The typography used on manga covers and/or spines is some of the most creative and (usually) the most pleasant designs among a good deal of published media in today’s bookstores. They stand out with their eye-catching colours, interesting fonts, and consistency between volumes of the same manga.
 
    In the United States, United Kingdom, and any other majority English-speaking country, manga spines line the shelves of popular bookstores such as Barnes & Nobles or Waterstones, with their eye-catching spines standing out to interested guests. Viz Media, Yen Press, and Kodansha Comics are all major USA-based publications that bring these manga from Japan and to the English-speaking world and into the hands of readers.   
 
@@ -20,7 +20,7 @@ comments: false
 
    The spines on the two are quite different as well, as the Japan copy’s font looks very distressed or worn off, whereas the English copy’s looks more traditional with a little bit of eclecticness through the varying contrast. The English versions also have little snippets of characters’ faces, which I really enjoy but the Japanese versions do not have. 
 
-![English spines are from my own collection, and Japanese spines are from Reddit user syubbi on r/MangaCollectors](../uploads/0001.jpg "English spines are from my own collection, and Japanese spines are from Reddit user syubbi on r/MangaCollectors")
+![English spines are from my own collection, and Japanese spines are from Reddit user syubbi on r/MangaCollectors](../uploads/english.jpg "English spines are from my own collection, and Japanese spines are from Reddit user syubbi on r/MangaCollectors")
 
    Chainsaw Man has not only been printed in Japanese, however. It is also available in French, Italian, Spanish, Polish and German (as well as many other languages within the EU), with slight changes between each of them on the covers. However, the spines on all of them are completely different. 
 
