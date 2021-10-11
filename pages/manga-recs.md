@@ -3,7 +3,7 @@ title: Manga Recs!
 image: ../uploads/img_4812.jpg
 permalink: https://mangainprint.netlify.app/recs/
 date: 2021-10-11T18:54:22.867Z
-show: false
+show: true
 layout: page
 ---
 ###### Instead of just the typographic design on the outside, it's the inside that really matters! Here are some manga I strongly recommend (if you are interested in reading) that aren't as popular as series like *My Hero Academia* or *Naruto*, with a really professional and good description of the story. <3
