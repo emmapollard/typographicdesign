@@ -6,7 +6,7 @@ image: ../uploads/img_6378-1-.jpg
 title_color: "#ffffff"
 comments: false
 ---
-### The typography used on manga covers and/or spines is some of the most creative and (usually) the most pleasant designs among a good deal of published media in today’s bookstores. They stand out with their eye-catching colours, interesting fonts, and consistency between volumes of the same manga. 
+**The typography** used on manga covers and/or spines is some of the most creative and (usually) the most pleasant designs among a good deal of published media in today’s bookstores. They stand out with their eye-catching colours, interesting fonts, and consistency between volumes of the same manga.
 
 In the United States, United Kingdom, and any other majority English-speaking country, manga spines line the shelves of popular bookstores such as Barnes & Nobles or Waterstones, with their eye-catching spines standing out to interested guests. Viz Media, Yen Press, and Kodansha Comics are all major USA-based publications that bring these manga from Japan and to the English-speaking world and into the hands of readers. 
 
@@ -26,15 +26,15 @@ Chainsaw Man has not only been printed in Japanese, however. It is also availabl
 
 The biggest difference on the cover of the European printed copies in comparison to the English copies is the title, which is printed very similarly to the Japanese print versions but in English. The words are in the same bold and yellow letters that span the entire cover and stand out against the orange background. 
 
-The spines of every single language printed is completely different though - there are too many different variations to count! However, I will show two of my favourites and why I like the typography on them. 
-
-1. ### Germany
+The spines of every single language printed is completely different though - there are too many different variations to count! However, I will show two of my favourites and why I like the typography on them. Germany
 
 I just think this spine (pictured right below) looks so cool. The full black with the snippet of the cover and the layout of the distressed yellow text shows a good preview of what the story is inside. The singular ‘1’ to show the volume number on top looks a lot nicer than how (in my opinion) the English versions look. The way the title is laid out on the spine is very interesting as well, and is something I’ve only seen on the German versions of the print manga.
 
+### 1. Germany
+
 ![](../uploads/2dnr2pxi1nu51.webp "Image from Reddit user Luke911666 on r/MangaCollectors")
 
-2. ### Polish
+### 2. Polish
 
 The spines of the Polish versions IS SO COOL! I love how the title looks like its been slashed with a chainsaw (que Denji*) and how it is similar to the English printings but spiced up a little. I honestly wish the English versions were printed with the ‘beaten and bruised’ typography on the spines, but I miss the character faces on the Polish versions.
 
