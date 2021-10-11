@@ -24,7 +24,7 @@ comments: false
 
 ![English spines are from my own collection, and Japanese spines are from Reddit user syubbi on r/MangaCollectors](../uploads/english.jpg "English spines are from my own collection, and Japanese spines are from Reddit user syubbi on r/MangaCollectors")
 
-  * Chainsaw Man* has not only been printed in Japanese, however. It is also available in French, Italian, Spanish, Polish and German (as well as many other languages within the EU), with slight changes between each of them on the covers. However, the spines on all of them are completely different. 
+*Chainsaw Man* has not only been printed in Japanese or English, however. It is also available in French, Italian, Spanish, Polish and German (as well as many other languages within the EU), with slight changes between each of them on the covers. But, as expected, the spines on all of them are completely different. 
 
    The biggest difference on the cover of the European printed copies in comparison to the English copies is the title, which is printed very similarly to the Japanese print versions but in English. The words are in the same bold and yellow letters that span the entire cover and stand out against the orange background. 
 
