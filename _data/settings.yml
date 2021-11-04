@@ -13,5 +13,5 @@ fixednavbar: true
 upzoom: true
 items:
   - name: About me!
-    siteurl: /aboutme
+    siteurl: /aboutme/
     tab: true
