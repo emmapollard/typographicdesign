@@ -2,7 +2,7 @@
 header_feature_image: /uploads/log.jpg
 title: What is this site?
 image: ../uploads/img_4813.jpg
-subtitle: All about Emma - an avid manga reader and Genshin Impact player
+subtitle: MANGA! and it's unique typography
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 layout: page
