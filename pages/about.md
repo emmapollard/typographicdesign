@@ -1,6 +1,6 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: About me!
+title: What is this site?
 image: ../uploads/img_4813.jpg
 subtitle: All about Emma - an avid manga reader and Genshin Impact player
 permalink: /about/
