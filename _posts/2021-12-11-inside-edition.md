@@ -2,6 +2,7 @@
 layout: post
 title: Inside Edition
 date: 2021-12-11T16:47:11.401Z
+image: ../uploads/img_7975.jpg
 title_color: "#ffffff"
 comments: false
 ---
