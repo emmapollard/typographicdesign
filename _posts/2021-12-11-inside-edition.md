@@ -6,9 +6,7 @@ image: ../uploads/img_7975.jpg
 title_color: "#ffffff"
 comments: false
 ---
-
-
-![](../uploads/png-base64f6f186329236e41a.png)
+###### What does the typography inside of manga look like? How does it differentiate between series, publishers, and genres? Look *inside* to find out :)
 
 ![](../uploads/img_7984.jpg)
 
@@ -27,3 +25,5 @@ Within dialogue, manga typesetters can use different fonts to get across emotion
 ## Characters
 
 The typeface change between characters often shows off their personality. On the left, series *Chainsaw Man* shows off this method perfectly.  The characters Power, Denji, and the unimportant side characters all have different fonts while speaking. This, again, gives personality to the words on the page and allows differentiation while reading.
+
+![](../uploads/png-base64f6f186329236e41a.png)
