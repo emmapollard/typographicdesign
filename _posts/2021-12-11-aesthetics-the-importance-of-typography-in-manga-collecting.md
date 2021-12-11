@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aesthetics: the importance of typography in manga collecting"
+title: "Aesthetics: Typography & Manga Collecting"
 date: 2021-12-11T16:42:58.895Z
 image: ../uploads/img-8649.jpg
 title_color: "#ffffff"
