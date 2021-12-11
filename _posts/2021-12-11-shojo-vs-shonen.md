@@ -6,7 +6,7 @@ image: ../uploads/4b45145f-2da2-4aad-8e0f-fb3db8c406aa.jpeg
 title_color: "#ffffff"
 comments: false
 ---
-**Physical manga publishers as a whole usually follow the same parameters when it comes to the volumes’ spine design and typography. The typical layout typically features the publication logos on the top and bottom of the spine, with the title, authors name, and a small picture of a character either under the authors name or right above it inbetween the logos. However, just by looking at my own collection, I have noticed there is actually quite a difference in how the spines are designed between more ‘shojo’ (female-appealing) series, versus ‘shonen’ (male-appealling) series.**
+Physical manga publishers as a whole usually follow the same parameters when it comes to the volumes’ spine design and typography. The typical layout typically features the publication logos on the top and bottom of the spine, with the title, authors name, and a small picture of a character either under the authors name or right above it inbetween the logos. However, just by looking at my own collection, I have noticed there is actually quite a difference in how the spines are designed between more ‘shojo’ (female-appealing) series, versus ‘shonen’ (male-appealling) series.
 
 ## Shojo Manga Typography
 
