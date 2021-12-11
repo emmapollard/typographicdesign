@@ -10,7 +10,7 @@ comments: false
 
 ![](../uploads/img_7984.jpg)
 
-## SOUND
+## Sound
 
 As well as just portraying dialogue, typefaces in manga can portray sounds using unique and bold fonts. Take Junji Ito’s *Gyo*, for example. The sounds pop out of the page in bold, black lettering to show further immerse the reader into the scene they are reading. The different words are each in a unique font that illustrates the sound effects perfectly.
 
